@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/ZM-MicroBoard-2.0.0.zip?raw=true",
           "archiveFileName": "ZM-MicroBoard-2.0.0.zip", 
-          "checksum": "SHA-256:D11BD2141E9E4BC044F2559A621926F6B7360D4F6D8986F228EF2262016884E2",
+          "checksum": "SHA-256:D7755C286826F70DB4AC29768A26F3C035921B5AB73FA15A86802EECB2585CE3",
           "size": "4595708",
           "boards": [
             {"name": "Generic STM32F4 series"}
@@ -148,8 +148,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/STM32Tools-2.0.0.zip?raw=true",
               "archiveFileName": "STM32Tools-2.0.0.zip",
-              "checksum": "SHA-256:545FE498729B770CD9FE0BCB8A92B69EF2A14766D3374EAA19BC8F98BB68F4F2",
-              "size": "2826498"
+              "checksum": "SHA-256:0D9BB4640C6D0E682E6FAC3470AA3F251AAC233EF888BE7B4CD0641ACD2ABA52",
+              "size": "2826499"
             },
             {
               "host": "x86_64-apple-darwin",
