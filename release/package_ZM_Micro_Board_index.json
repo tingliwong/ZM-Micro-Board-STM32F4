@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "ZM_Micro",
-      "websiteURL": "https://github.com/stm32duino",
+      "websiteURL": "https://github.com/tingliwong",
       "maintainer": "STMicroelectronics",
-      "email": "stmduino@st.com",
+      "email": "zircuitmatch@gmail.com",
       "help": {
-        "online": "http://www.stm32duino.com/"
+        "online": "https://github.com/tingliwong"
       },
       "platforms": [
         {
