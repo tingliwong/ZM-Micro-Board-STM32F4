@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "STM32 MCU based boards",
+          "name": "ZM MCU based boards",
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
