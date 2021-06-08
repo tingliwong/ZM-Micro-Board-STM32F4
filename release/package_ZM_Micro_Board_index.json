@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/ZM-MicroBoard-2.0.0.zip?raw=true",
           "archiveFileName": "ZM-MicroBoard-2.0.0.zip", 
-          "checksum": "SHA-256:F1B4D42D6428BFF65F362F5A0575866EEB413BFDC949F5F07586C727C068D912",
+          "checksum": "SHA-256:D11BD2141E9E4BC044F2559A621926F6B7360D4F6D8986F228EF2262016884E2",
           "size": "4595708",
           "boards": [
             {"name": "Generic STM32F4 series"}
