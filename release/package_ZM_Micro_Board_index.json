@@ -2,24 +2,24 @@
   "packages": [
     {
       "name": "ZM_Micro",
-      "websiteURL": "https://github.com/tingliwong",
-      "maintainer": "zircuitmatch",
-      "email": "zircuitmatch@gmail.com",
+      "websiteURL": "https://github.com/stm32duino",
+      "maintainer": "STMicroelectronics",
+      "email": "stmduino@st.com",
       "help": {
-        "online": "https://github.com/tingliwong"
+        "online": "http://www.stm32duino.com/"
       },
-      "platforms": [   
+      "platforms": [
         {
           "name": "ZM Micro boards",
           "architecture": "stm32",
-          "version": "1.0.0",
+          "version": "2.0.0",
           "category": "Contributed",
           "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/ZM-MicroBoard-1.0.0.zip?raw=true",
           "archiveFileName": "ZM-MicroBoard-1.0.0.zip", 
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
           "size": "4595708",
           "boards": [
-            "name": "Generic STM32F4 series"
+            {"name": "Generic STM32F4 series"}
           ],
           "toolsDependencies": [
             {
@@ -30,7 +30,7 @@
             {
               "packager": "STMicroelectronics",
               "name": "STM32Tools",
-              "version": "1.0.0"
+              "version": "2.0.0"
             },
             {
               "packager": "STMicroelectronics",
@@ -141,7 +141,7 @@
         },
         {
           "name": "STM32Tools",
-          "version": "1.0.0",
+          "version": "2.0.0",
           "systems":
           [
             {
@@ -150,6 +150,27 @@
               "archiveFileName": "STM32Tools-2.0.0-windows.tar.bz2",
               "checksum": "SHA-256:6316ffd1667344952bc5e16ff60783f9b4211d1eb54fc0d0c28e836b1490b717",
               "size": "2826498"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-mac.tar.bz2",
+              "archiveFileName": "STM32Tools-2.0.0-mac.tar.bz2",
+              "checksum": "SHA-256:2612be87206d2ba6f7cf797c194dbc070139defc884b881c1957a8d148c2114c",
+              "size": "486398"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-2.0.0-linux.tar.bz2",
+              "checksum": "SHA-256:850186554df1d56f5f5336d6310551b734b2ff97c92677ca0ece11f134b72d0f",
+              "size": "479795"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-2.0.0-linux.tar.bz2",
+              "checksum": "SHA-256:850186554df1d56f5f5336d6310551b734b2ff97c92677ca0ece11f134b72d0f",
+              "size": "479795"
             }
           ]
         }
