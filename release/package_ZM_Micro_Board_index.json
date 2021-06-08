@@ -14,9 +14,9 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/ZM-MicroBoard-1.0.0.zip?raw=true",
-          "archiveFileName": "ZM-MicroBoard-1.0.0.zip", 
-          "checksum": "SHA-256:8A78BAD62C8A0535BC69D8B646984A44E427A719F3DE74E736DBE5D1A0BECB89",
+          "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/ZM-MicroBoard-2.0.0.zip?raw=true",
+          "archiveFileName": "ZM-MicroBoard-2.0.0.zip", 
+          "checksum": "SHA-256:F1B4D42D6428BFF65F362F5A0575866EEB413BFDC949F5F07586C727C068D912",
           "size": "4595708",
           "boards": [
             {"name": "Generic STM32F4 series"}
@@ -146,9 +146,9 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/STM32Tools-1.0.0.zip?raw=true",
-              "archiveFileName": "STM32Tools-1.0.0.zip",
-              "checksum": "SHA-256:564E94C21CCC38E0E76EB98F4ED90890453C9969A3BB19353F07705745BACA26",
+              "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/blob/main/release/STM32Tools-2.0.0.zip?raw=true",
+              "archiveFileName": "STM32Tools-2.0.0.zip",
+              "checksum": "SHA-256:9DE003B8D9F53DFB4BBC7EAC117C4C3B2FFF72A05D378795E4F7763A88DA98F2",
               "size": "2826498"
             },
             {
