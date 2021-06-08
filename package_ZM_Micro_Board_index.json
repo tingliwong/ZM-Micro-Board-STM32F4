@@ -14,10 +14,10 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
-          "archiveFileName": "STM32-2.0.0.tar.bz2",
+          "url": "https://github.com/tingliwong/ZM-Micro-Board-STM32F4-/tree/main/release/ZM_Micro2.0.0.tar",
+          "archiveFileName": "ZM_Micro2.0.0.tar",
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
+          "size": "12706533",
           "boards": [
             {"name": "ZM Micro STM32F4 series"}
           ],
