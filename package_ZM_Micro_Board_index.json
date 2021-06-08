@@ -19,7 +19,7 @@
           "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
           "size": "12706533",
           "boards": [
-            {"name": "ZM Micro STM32F4 series"}
+            {"name": "Generic STM32F4 series"},
           ],
           "toolsDependencies": [
             {
