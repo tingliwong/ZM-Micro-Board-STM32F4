@@ -1,7 +1,7 @@
 
 
 # STM32F401 WITH Auto Boot Mode 
-!["STM32F401"](https://github.com/tingliwong/ZM-Micro-Board-STM32F4/blob/master/images/STM32F401CEU6-V1.JPG)
+!["STM32F401"](https://github.com/tingliwong/ZM-Micro-Board-STM32F4/blob/main/images/STM32F401CEU6-V1.JPG)
 <!-- PROJECT LOGO -->
 <br />
 
