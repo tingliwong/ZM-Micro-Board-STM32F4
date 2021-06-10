@@ -31,7 +31,7 @@ This repo is available as a package usable with [Arduino Boards Manager](https:/
 
 Add this link in the "*Additional Boards Managers URLs*" field:
 
-https://raw.githubusercontent.com/tingliwong/ZM-Micro-Board-STM32F4-/master/release/package_ZM_Micro_Board_index.json
+https://raw.githubusercontent.com/tingliwong/ZM-Micro-Board-STM32F4/master/release/package_ZM_Micro_Board_index.json
 
 
 For full instructions on using the "**Boards Manager**", see the [Getting Started](https://github.com/stm32duino/wiki/wiki/Getting-Started) page.
